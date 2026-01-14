@@ -18,7 +18,3 @@ def main():
     print(f"Валидных записей: {len(purchases)}")
     print(f"Ошибок: {errors}")
     print(f"Общая сумма: {pa.total_spent(purchases):.2f}")
-
-
-if __name__ == "__main__":
-    main()
