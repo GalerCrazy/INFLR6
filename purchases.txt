@@ -1,0 +1,32 @@
+2025-09-01;food;Milk 2.5%;1.20;2
+2025-09-01;food;Bread;0.85;1
+2025-09-01;food;Apples red;2.30;1
+2025-09-02;transport;Bus ticket;1.50;4
+2025-09-02;transport;Metro card;12.00;1
+2025-09-02;food;Coffee beans 250g;4.90;1
+2025-09-03;other;Notebook A5;2.00;3
+2025-09-03;other;Pen black;0.60;5
+2025-09-03;food;Cheese;3.75;1
+2025-09-04;home;Dish soap;1.90;2
+2025-09-04;home;Laundry powder;5.50;1
+2025-09-04;food;Chicken fillet;6.80;1
+2025-09-05;entertainment;Cinema ticket;9.50;2
+2025-09-05;entertainment;Popcorn large;4.20;1
+2025-09-06;health;Vitamins C;7.30;1
+2025-09-06;health;Bandages pack;2.10;2
+2025-09-07;food;Yogurt strawberry;0.95;6
+2025-09-07;food;Orange juice 1L;1.70;2
+2025-09-08;transport;Taxi ride;15.40;1
+2025-09-08;other;USB-C cable;3.99;1
+
+2025-09-09;home;Light bulb LED;2.50;4
+2025-09-09;food;Rice 1kg;2.20;1
+2025-09-10;entertainment;Board game night;5.00;1
+2025-09-10;food;Pizza margarita;8.90;1
+2025-09-11;food;Bananas;1.10;3
+2025-09-11;food;Apple pie;two;1
+2025-09-12;home;Towel set;10.00;1;extra
+2025-09-12;food;Grapes;2.60;1.5
+2025-09-13;transport;Train ticket;14.00;-1
+2025-09-13;other;Free sample;0;1
+2025-09-14;food;Chocolate bar;;2
